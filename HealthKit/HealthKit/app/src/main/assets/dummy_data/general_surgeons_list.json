@@ -1,0 +1,32 @@
+[
+  {
+    "doctor_category": "General Surgeons",
+    "doctor_name": "Prof.Mya Thein Han",
+    "doctor_qualification": "M.B.B.S (YGN), F.R.C.S (Edin)",
+    "doctor_date_time": "2:00 pm- 4:00 pm (Tue & Thurs)"
+  },
+  {
+    "doctor_category": "General Surgeons",
+    "doctor_name": "Prof. Ohn Khine",
+    "doctor_qualification": "M.B.B.Sc, M.Med.Sc, FRCS (Edin))",
+    "doctor_date_time": "5:00 pm - 7:00 pm (Tue & Thurs)"
+  },
+  {
+    "doctor_category": "General Surgeons",
+    "doctor_name": "Prof. Khin Zaw",
+    "doctor_qualification": "M.B.B.Sc, M.Med.Sc(Surg), Dr.Med.Sc(Surg)",
+    "doctor_date_time": "8:00 pm - 10:00 pm (Sat & Thurs)"
+  },
+  {
+    "doctor_category": "General Surgeons",
+    "doctor_name": "Dr. Win Thaw",
+    "doctor_qualification": "M.B.B.S, M.Med.Sc (Int.Med), MRCP(UK)",
+    "doctor_date_time": "7 am (Sat & Sun)"
+  },
+  {
+    "doctor_category": "General Surgeons",
+    "doctor_name": "Dr. Than Htike Aung",
+    "doctor_qualification": "M.B.B.S, M.R.C.P(UK)",
+    "doctor_date_time": "7 am (Sat & Sun)"
+  }
+]

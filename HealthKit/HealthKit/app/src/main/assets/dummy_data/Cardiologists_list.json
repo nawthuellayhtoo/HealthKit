@@ -1,0 +1,38 @@
+[
+  {
+    "doctor_category": "Cardiologists",
+    "doctor_name": "Prof. Nwe Nwe",
+    "doctor_qualification": "M.B.B.S, M.Med.Sc, MRCP (UK), Dr.Med.Sc (General Medicine)",
+    "doctor_date_time": "2:00 pm- 4:00 pm (Tue & Thurs)"
+  },
+  {
+    "doctor_category": "Cardiologists",
+    "doctor_name": "Prof. Ni Ni Win",
+    "doctor_qualification": "M.B.B.Sc, M.Med.Sc, Dr.Med.Sc(General Medicine)",
+    "doctor_date_time": "8:00 pm - 4:00 pm (Tue & Thurs)"
+  },
+  {
+    "doctor_category": "Cardiologists",
+    "doctor_name": "Prof. Lun Wai",
+    "doctor_qualification": "M.B.B.Sc, M.Med.Sc(Int.Med), DTCD(Whales)",
+    "doctor_date_time": "8:00 pm - 4:00 pm (Tue & Thurs)"
+  },
+  {
+    "doctor_category": "Cardiologists",
+    "doctor_name": "Dr. Win Thaw",
+    "doctor_qualification": "M.B.B.S, M.Med.Sc (Int.Med), MRCP(UK)",
+    "doctor_date_time": "7 am (Sat & Sun)"
+  },
+  {
+    "doctor_category": "Cardiologists",
+    "doctor_name": "Dr. Than Htike Aung",
+    "doctor_qualification": "M.B.B.S, M.R.C.P(UK)",
+    "doctor_date_time": "7 am (Sat & Sun)"
+  },
+  {
+    "doctor_category": "Cardiologists",
+    "doctor_name": "Dr. Maung Maung Htay",
+    "doctor_qualification": "M.B.B.S, M.R.C.P (UK)",
+    "doctor_date_time": "2:00 pm - 4:00 pm (Fri)"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "event_title": "24Hours Care Service",
+    "service_photo": "http://static.diariomedico.com/images/2012/03/23/a2-48559067_1.jpg",
+    "service_desc": "We provide emergency out-parent care service, observation inpatient care service, operation theater service, medical check-up service and Digital X Ray."
+  },
+  {
+    "event_title": "Laboratory",
+    "service_photo": "http://www.auroramedparklab.com/files/2113/9473/5560/Aurora_Lab_Website_Banner.jpg",
+    "service_desc": "Our experience and qualified Pathologists and Microbiologists provide precise results 24 hours a day with the help of the laatest laboratory equipment and skilled Lab Technicians."
+  },
+  {
+    "event_title": "Health Park",
+    "service_photo": "http://witoriyahospital.com/images/Banner-img-1.jpg",
+    "service_desc": "There is a large and spacious park for your leisure and relaxation. For your convenience during the hospital stay, our hospital has ASIA LIGHT convenience store and Feel VICTORIA Restaurant."
+  },
+  {
+    "event_title": "Day Care Service",
+    "service_photo": "http://eldigital.barcelona.cat/wp-content/uploads/2014/07/FOTO5-HP-1024x576.jpg",
+    "service_desc": "We provide ENT & Audiometry service, physiotherapy service, ultrasound service (2D, 4D, Color Doppler)"
+  },
+  {
+    "event_title": "Ambulance Service",
+    "service_photo": "http://businesstoday.lk/cpanel/uploader/1548/Picture%201.jpg.JPEG",
+    "service_desc": "Whenever there are any emergency health problems in your family, we provide 24 hours ambulance service. This service includes a medical team made out of experienced doctors and nurses along with emergency medical equipment and supplies."
+  }
+]

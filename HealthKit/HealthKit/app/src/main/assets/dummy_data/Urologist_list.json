@@ -1,0 +1,14 @@
+[
+  {
+    "doctor_category": "Urologist",
+    "doctor_name": "Prof. Aye Thura Win",
+    "doctor_qualification": "M.B.B.S, M.Med.Sc, MRCP (UK), Dr.Med.Sc (General Medicine)",
+    "doctor_date_time": "2:00 pm- 4:00 pm (Tue & Thurs)"
+  },
+  {
+    "doctor_category": "Urologist",
+    "doctor_name": "Prof. April Win",
+    "doctor_qualification": "M.B.B.Sc, M.Med.Sc, Dr.Med.Sc(General Medicine)",
+    "doctor_date_time": "8:00 pm - 4:00 pm (Tue & Thurs)"
+  }
+]

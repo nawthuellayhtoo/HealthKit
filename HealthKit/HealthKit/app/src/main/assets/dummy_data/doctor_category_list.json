@@ -1,0 +1,34 @@
+[
+  {
+    "doctor_category": "Cardiologists",
+    "category_photo": "https://cdn4.iconfinder.com/data/icons/SIGMA/medical/png/400/doctor.png"
+  },
+  {
+    "doctor_category": "Dentist",
+    "category_photo": "https://cdn4.iconfinder.com/data/icons/SIGMA/medical/png/400/doctor.png"
+  },
+  {
+    "doctor_category": "General Physicians",
+    "category_photo": "https://cdn4.iconfinder.com/data/icons/SIGMA/medical/png/400/doctor.png"
+  },
+  {
+    "doctor_category": "General Surgeons",
+    "category_photo": "https://cdn4.iconfinder.com/data/icons/SIGMA/medical/png/400/doctor.png"
+  },
+  {
+    "doctor_category": "Neurologist",
+    "category_photo": "https://cdn4.iconfinder.com/data/icons/SIGMA/medical/png/400/doctor.png"
+  },
+  {
+    "doctor_category": "Ophthalmologist",
+    "category_photo": "https://cdn4.iconfinder.com/data/icons/SIGMA/medical/png/400/doctor.png"
+  },
+  {
+    "doctor_category": "Pediatrician",
+    "category_photo": "https://cdn4.iconfinder.com/data/icons/SIGMA/medical/png/400/doctor.png"
+  },
+  {
+    "doctor_category": "Urologist",
+    "category_photo": "https://cdn4.iconfinder.com/data/icons/SIGMA/medical/png/400/doctor.png"
+  }
+]

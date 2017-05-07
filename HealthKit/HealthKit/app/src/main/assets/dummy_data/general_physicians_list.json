@@ -1,0 +1,38 @@
+[
+  {
+    "doctor_category": "General Physicians",
+    "doctor_name": "Prof. Tint Swe Latt",
+    "doctor_qualification": "M.B.B.S, M.Med.Sc, MRCP (UK), Dr.Med.Sc (General Medicine)",
+    "doctor_date_time": "2:00 pm- 4:00 pm (Tue & Thurs)"
+  },
+  {
+    "doctor_category": "General Physicians",
+    "doctor_name": "Prof. Chit Soe",
+    "doctor_qualification": "M.B.B.Sc, M.Med.Sc, Dr.Med.Sc(General Medicine)",
+    "doctor_date_time": "8:00 pm - 4:00 pm (Tue & Thurs)"
+  },
+  {
+    "doctor_category": "General Physicians",
+    "doctor_name": "Prof. Kyaw Thet Tun",
+    "doctor_qualification": "M.B.B.Sc, M.Med.Sc(Int.Med), DTCD(Whales)",
+    "doctor_date_time": "8:00 pm - 4:00 pm (Tue & Thurs)"
+  },
+  {
+    "doctor_category": "General Physicians",
+    "doctor_name": "AP.Thein Myint",
+    "doctor_qualification": "M.B.B.S, M.Med.Sc (Int.Med), MRCP(UK)",
+    "doctor_date_time": "7 am (Sat & Sun)"
+  },
+  {
+    "doctor_category": "General Physicians",
+    "doctor_name": "Dr. Thandar Cho",
+    "doctor_qualification": "M.B.B.S, M.Med.Sc (Int.Med)",
+    "doctor_date_time": "7 am (Sat & Sun)"
+  },
+  {
+    "doctor_category": "General Physicians",
+    "doctor_name": "Dr. Khine Lwin",
+    "doctor_qualification": "M.B.B.S, M.Med.Sc (Int.Med)",
+    "doctor_date_time": "6:00 pm - 7:00 pm (Sat & Sun)"
+  }
+]

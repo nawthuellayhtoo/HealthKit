@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Vitoria HealthKit</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="home_blank_fragment">Hello! What are you finding out?</string>
+    <string name="service_blank_fragment">Hello Service fragment</string>
+
+
+    <string name="health_tips_fragment">Get health knowledge daily!</string>
+
+    <string name="about_app_fragment">Version : 1.0.0</string>
+    <string name="about_app_developer">By Android Study Jam, Thue Llay Htoo</string>
+    <string name="about_app_msg">V Health Kit - Get information quickly for your health</string>
+    <string name="about_app_host">from Victoria Hospital</string>
+
+    <string name="service_mainTitle">Services</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
